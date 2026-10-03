@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Ruturaj Gidde
 **A passionate DevOps Engineer || Cloud Engineer from India**
 
-Email Me 👉 ✉️ **your-email@example.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ruturajgidde07@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** DevOps, Cloud Infrastructure and CI/CD
 - 🌱 **I’m currently learning:** Kubernetes, Terraform, AWS and DevOps
 - 👯 **I’m looking to collaborate on:** DevOps and Cloud Projects
 - 🤔 **I’m looking for help with:** Cloud Native and DevOps Projects
 - 💬 **Ask me about:** AWS, Kubernetes, Terraform, Docker, Jenkins, Linux
-- 📫 **How to reach me:** your-email@example.com
+- 📫 **How to reach me:** ruturajgidde07@gmail.com
 - 😄 **Pronouns:** Ruturaj
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
@@ -25,7 +25,7 @@ Stay updated with my latest DevOps projects, cloud technologies and automation.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruturajgidde&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/) [![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruturaj-gidde) [![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white)](https://github.com/ruturaj-gidde)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
